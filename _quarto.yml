@@ -16,7 +16,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Resume"
-        href: resume.html
+        href: resume.qmd
       - text: "Recent Work"
         menu:
           - text: "Some Recent Work"
