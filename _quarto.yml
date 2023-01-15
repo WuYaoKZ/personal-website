@@ -9,14 +9,14 @@ project:
     
 #Defines the main part(s) of the website: navbar, buttons, icons, links, etc.
 website:
-  title: "Yang Xie's Website"
+  title: "My site"
   navbar:
     type: default
     left:
       - text: "Home"
         href: index.qmd
       - text: "Resume"
-        href: resume.qmd
+        href: resume.html
       - text: "Recent Work"
         menu:
           - text: "Some Recent Work"
