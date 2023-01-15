@@ -9,7 +9,7 @@ project:
     
 #Defines the main part(s) of the website: navbar, buttons, icons, links, etc.
 website:
-  title: "<Your Name>"
+  title: "Yang Xie's Website"
   navbar:
     type: default
     left:
