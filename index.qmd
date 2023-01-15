@@ -2,8 +2,6 @@
 title: "Yang Xie's Personal Website"
 ---
 
-永远相信美好的事情即将发生！
-
 - Hi, I'm Yang Xie! I'm currently a master's student in Biostatistics at the [University of Minnesota School of Public Health](https://www.sph.umn.edu/). 
 
 - My research interests include clinical trials, survival analysis, and statistical genetics.
