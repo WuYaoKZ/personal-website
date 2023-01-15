@@ -1,0 +1,6 @@
+---
+title: "Resume"
+editor: visual
+---
+
+![](images/pic.png)
